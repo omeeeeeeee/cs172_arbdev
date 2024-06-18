@@ -1,0 +1,23 @@
+{
+  "name": "cs172_arbdev",
+  "version": "1.0.0",
+  "description": "Repo for arbitrum dev requirement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omeeeeeeee/cs172_arbdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omeeeeeeee/cs172_arbdev/issues"
+  },
+  "homepage": "https://github.com/omeeeeeeee/cs172_arbdev#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  }
+}
